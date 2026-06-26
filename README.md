@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Venisha D'Souza
+# Hey, I'm Venisha Dsouza
 
 **Computer Science Student**
 
@@ -11,7 +11,6 @@ Passionate about building software projects, participating in hackathons, and co
 <a href="https://www.linkedin.com/in/venishadsouza/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:venisha574347@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
@@ -20,13 +19,32 @@ Passionate about building software projects, participating in hackathons, and co
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
-<div align="center">
+### Languages
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanillaaz&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
+</p>
 
-</div>
+### Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,firebase" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://img.shields.io/badge/H2-Database-0078D4?style=for-the-badge" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel,render" />
+</p>
 
 ---
 

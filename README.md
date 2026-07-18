@@ -33,9 +33,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Vanillaaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vanillaaz&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://contriblens-production.up.railway.app/svg/Vanillaaz?window=all&variant=combined&theme=retro&v=2" />
+<img src="https://contriblens-production.up.railway.app/svg/Vanillaaz?window=all&variant=contribution-summary&theme=retro&v=2" />
+<img src="https://contriblens-production.up.railway.app/svg/Vanillaaz?window=all&variant=language-breakdown&theme=retro&v=2" />
+
+<img src="https://contriblens-production.up.railway.app/svg/Vanillaaz?window=all&variant=streak-stats&theme=retro&v=2" />
+
 
 </div>
 
